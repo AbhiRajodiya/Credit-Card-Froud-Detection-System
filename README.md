@@ -36,5 +36,10 @@ Dataset Link :- https://www.kaggle.com/mlg-ulb/creditcardfraud
     and migrate it to database
 
         python manage.py migrate
+        
+        
 
+![screencapture-127-0-0-1-8000-2023-02-17-18_11_52](https://user-images.githubusercontent.com/110282564/219656614-dcd48ab6-fff8-4b09-bf99-32edb69ca0ba.png)
 
+![screencapture-127-0-0-1-8000-dashboard-2023-02-17-18_12_31](https://user-images.githubusercontent.com/110282564/219656631-4c099cc8-2677-4ad5-89af-b48954d96d23.png)
+![screencapture-127-0-0-1-8000-reports-2023-02-17-18_13_00](https://user-images.githubusercontent.com/110282564/219656663-6e73f1b1-faf5-4d92-af3d-0ddf0fb2feda.png)
